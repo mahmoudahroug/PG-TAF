@@ -1,5 +1,8 @@
 # PG‑TAF: Perceptually‑Guided Graphs & Type‑Aware Fusion for Enhanced GRIP++ Trajectory Prediction
 
+<!-- PG‑TAF architecture image -->
+![PG‑TAF architecture](./Modified%20grip%20architecture.drawio.png)
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
