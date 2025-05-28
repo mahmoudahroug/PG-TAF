@@ -18,7 +18,7 @@ neighbor_distance = 10 # meter
 ellipse_front_distance = 15 # meter 
 ellipse_sides_distance = 5 # meter
 forward_offset = 0 # meter the forward offset of the elliptical neighbourhood
-back_clip_at = -12 # meter the backward clip of the elliptical neighbourhood
+back_clip_at = -15 # meter the backward clip of the elliptical neighbourhood
 
 # Baidu ApolloScape data format:
 # frame_id, object_id, object_type, position_x, position_y, position_z, object_length, pbject_width, pbject_height, heading
