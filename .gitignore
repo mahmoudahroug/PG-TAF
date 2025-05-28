@@ -1,0 +1,5 @@
+.venv/*
+data/*
+*.pkl
+test.py
+testGATBatched.py
